@@ -1,0 +1,67 @@
+﻿@using HospitalManagementSystem.ViewModels;
+@model DoctorsVM
+<div class="container text-center">
+    <!--Filteration-->
+    <form class="row g-3 justify-content-center align-items-center">
+        <div class="col-auto">
+            <input type="text" class="form-control mb-3" placeholder="Search by Name" name="Name">
+        </div>
+        <div class="col-auto">
+            <select class="form-select mb-3" name="SpecializationId">
+                <option selected>Search by specialization</option>
+                @foreach(var item in Model.Specializations)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary mb-3">Filter</button>
+        </div>
+        <div class="col-auto">
+            <button type="reset" class="btn btn-primary mb-3">Reset</button>
+        </div>
+    </form>
+    <!--Doctors List-->
+    <div class="row row-cols-3">
+        @foreach(var item in Model.Doctors)
+        {
+            <div class="card col px-3 py-3">
+                <img src="~/Images/Doctors/@item.ImgUrl" class="card-img-top" alt="Doctor">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Specialization.Name</p>
+                    <a href="/home/MakeApp?DoctorId=@item.Id" class="btn btn-primary">Book Appointment</a>
+                </div>
+            </div>
+        }
+        
+    </div>
+    <!--Pagination-->
+    <nav aria-label="Page navigation example" class="d-flex justify-content-center align-items-center my-5">
+        <ul class="pagination">
+            <li class="page-item">
+                <a class="page-link" href="/Home/Doctors?page=@((ViewBag.CurrentPage-2+ViewBag.TotalPages)%ViewBag.TotalPages+1)" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            @for(int i=1;i<=ViewBag.TotalPages;i++)
+            {
+                @if(ViewBag.CurrentPage != i)
+                {
+                    <li class="page-item"><a class="page-link" href="/Home/Doctors?page=@i">@i</a></li>
+                }
+                else
+                {
+                    <li class="page-item active"><a class="page-link" href="/Home/Doctors?page=@i">@i</a></li>
+                }
+                
+            }
+            <li class="page-item">
+                <a class="page-link" href="/Home/Doctors?page=@(ViewBag.CurrentPage%ViewBag.TotalPages+1)" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

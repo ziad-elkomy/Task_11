@@ -1,0 +1,76 @@
+﻿@using HospitalManagementSystem.ViewModels;
+@model MakeAppVM
+
+<form>
+	<div class="bg-primary text-white p-3 mb-2 row g-2 d-flex justify-content-center align-items-center">
+		<h3 class="text-center">Appointment Registeration</h3>
+		<input type="hidden" name="DoctorId" value="@Model.DoctorId" />
+		<input type="hidden" name="IsSubmit" value="true" />
+		<div class="mb-3 d-flex justify-content-center align-items-center">
+			<label for="PatientApp" class="form-label fs-2 text-center me-2">Patient Name</label>
+			<input type="text" class="form-control-sm" id="PatientApp" name="PatientName">	
+		</div>
+		<div class="mb-3 d-flex justify-content-center align-items-center">
+			<label for="DateApp" class="form-label fs-2 text-center me-2">Date</label>
+			<input type="date" id="DateApp" name="Date"/>
+		</div>
+		<div class="mb-3 d-flex justify-content-center align-items-center">
+			<label for="TimeApp" class="form-label fs-2 text-center me-2">Time</label>
+			<select class="form-select-sm" aria-label="Default select example" id="TimeApp" name="Time">
+				<option value="0"></option>
+				@{
+						TimeOnly timer = new TimeOnly(9, 0);
+				}
+				@for(int i=0;i<16;i++)
+				{
+					<option value="@timer">@timer.ToString()</option>
+					timer = timer.AddMinutes(30);
+				}
+			</select>
+		</div>
+		<div class="mb-3 d-flex justify-content-center align-items-center">
+				@{
+					string mod = "";
+					if (Model.IsValid)
+						mod = "/home/ShowApp";
+					else
+						mod = "javascript:void(0)";
+				}
+			<a href=@mod><button type="submit" class="btn btn-secondary mb-3">Submit</button></a>
+		</div>
+	</div>
+</form>
+<!--Date Handling-->
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+<script>
+	flatpickr("#DateApp", {
+		"disable": [
+			function(date) {
+				return (date.getDay() === 6 || date.getDay() === 5);
+			},
+		],
+		minDate: "today"
+	});
+</script>
+<!--Alert Handling-->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+@if(Model.IsSubmit)
+{
+	if(Model.IsValid)
+	{
+		<script>
+			window.location.href = "/Home/ShowApp"
+		</script>
+	}
+	else
+	{
+		<script>
+			Swal.fire({
+            title: 'Warning !',
+            text: "@Model.ErrMessage",
+            icon: 'warning', 
+            confirmButtonText: 'OK'
+        });
+		</script>
+	}
+}

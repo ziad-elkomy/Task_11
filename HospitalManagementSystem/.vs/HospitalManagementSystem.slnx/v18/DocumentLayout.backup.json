@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\makeapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\makeapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\viewmodels\\makeappvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\viewmodels\\makeappvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\views\\home\\showapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\views\\home\\showapp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\viewmodels\\appvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\viewmodels\\appvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|d:\\self_study\\back_end\\100- eraasoft\\tasks\\task_11\\hospitalmanagementsystem\\hospitalmanagementsystem\\migrations\\20261007015317_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F94022-D2AC-6FED-4586-2385965A1D3A}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\migrations\\20261007015317_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T18:39:28.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MakeApp.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\MakeApp.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\MakeApp.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\MakeApp.cshtml*",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\MakeApp.cshtml*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-08T13:12:23.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MakeAppVM.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\ViewModels\\MakeAppVM.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ViewModels\\MakeAppVM.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\ViewModels\\MakeAppVM.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ViewModels\\MakeAppVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:30:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T20:12:27.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T12:25:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppVM.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\ViewModels\\AppVM.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\ViewModels\\AppVM.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\ViewModels\\AppVM.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\ViewModels\\AppVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T10:51:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20261007015317_initial_create.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Migrations\\20261007015317_initial_create.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Migrations\\20261007015317_initial_create.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Migrations\\20261007015317_initial_create.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Migrations\\20261007015317_initial_create.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T01:53:17.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowApp.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\ShowApp.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\ShowApp.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\ShowApp.cshtml",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\ShowApp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T01:13:11.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T00:54:44.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctors.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Doctors.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Home\\Doctors.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Home\\Doctors.cshtml*",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Home\\Doctors.cshtml*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T20:26:28.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\self_study\\Back_end\\100- EraaSoft\\Tasks\\Task_11\\HospitalManagementSystem\\HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "HospitalManagementSystem\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T19:07:08.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

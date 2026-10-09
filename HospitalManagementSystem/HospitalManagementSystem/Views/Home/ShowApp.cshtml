@@ -1,0 +1,29 @@
+﻿@using HospitalManagementSystem.ViewModels;
+@model List<AppVM>
+<div class="d-flex justify-content-center align-items-center p-3 mb-2 bg-primary text-white row g-2">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Pateint</th>
+                <th scope="col">Doctor</th>
+                <th scope="col">Specialization</th>
+                <th scope="col">Date</th>
+                <th scope="col">Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@item.AppId</th>
+                    <td>@item.PatientName</td>
+                    <td>@item.DoctorName</td>
+                    <td>@item.SpecializationName</td>
+                    <td>@item.Date</td>
+                    <td>@item.Time</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
